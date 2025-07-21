@@ -30,4 +30,6 @@ Remember, anonymity is paramount when navigating these digital spaces. Always ut
 
 
 
-Update: url is functioning properly
+
+
+Update:  07/21/2025 21-57-50 Updated IDE configuration documentation
