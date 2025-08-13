@@ -36,4 +36,6 @@ Remember, anonymity is paramount when navigating these digital spaces. Always ut
 
 
 
-Update:  08/04/2025
+
+
+Update:  13 August url is now responsive and active
